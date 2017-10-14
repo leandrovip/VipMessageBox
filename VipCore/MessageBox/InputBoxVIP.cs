@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using VipCore.Enum;
+using VipMessageBox.Enum;
 
-namespace VipCore.MessageBox
+namespace VipMessageBox.MessageBox
 {
     public class InputBoxVIP
     {

@@ -101,9 +101,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VipCore\VipCore.csproj">
+    <ProjectReference Include="..\VipCore\VipMessageBox.csproj">
       <Project>{010A7391-FF56-4542-B89F-6A27C9E515FE}</Project>
-      <Name>VipCore</Name>
+      <Name>VipMessageBox</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

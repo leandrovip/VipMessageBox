@@ -4,9 +4,9 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
-using VipCore.Enum;
+using VipMessageBox.Enum;
 
-namespace VipCore.MessageBox
+namespace VipMessageBox.MessageBox
 {
     public partial class Message
     {

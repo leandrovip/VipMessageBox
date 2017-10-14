@@ -1,4 +1,4 @@
-﻿namespace VipCore.Enum
+﻿namespace VipMessageBox.Enum
 {
     public enum MessageBoxType
     {

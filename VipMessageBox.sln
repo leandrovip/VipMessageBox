@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipCore", "VipCore\VipCore.csproj", "{010A7391-FF56-4542-B89F-6A27C9E515FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipMessageBox", "VipCore\VipMessageBox.csproj", "{010A7391-FF56-4542-B89F-6A27C9E515FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipCore.Demo", "VipCore.Demo\VipCore.Demo.csproj", "{50156BF3-B0E9-4B6E-981F-98D0176B16F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipMessageBox.Demo", "VipCore.Demo\VipMessageBox.Demo.csproj", "{50156BF3-B0E9-4B6E-981F-98D0176B16F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

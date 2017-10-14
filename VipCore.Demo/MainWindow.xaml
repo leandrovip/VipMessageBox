@@ -6,9 +6,10 @@
         xmlns:local="clr-namespace:VipCore.Demo"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <StackPanel>
-        <Button Content="Exibe Mensagem" Click="ButtonBase_OnClick" Width="100" Height="50"></Button>
-        <Button x:Name="Button2" Content="Exibe Mensagem" Click="Button2_OnClick" Width="100" Height="50"></Button>
-        <Button x:Name="Button3" Content="Exibe Caixa de Texto" Click="Button3_OnClick" Width="100" Height="50"></Button>
+    <StackPanel Margin="10">
+        <Button Content="Exibe Mensagem 1" Click="ButtonBase_OnClick" Height="50"></Button>
+        <Button x:Name="Button2" Content="Exibe Mensagem 2" Click="Button2_OnClick" Height="50" Margin="0 10 0 0"></Button>
+        <Button x:Name="Button3" Content="Exibe Caixa de Texto" Click="Button3_OnClick" Height="50" Margin="0 10 0 0"></Button>
+        <Button x:Name="Button4" Content="Sair" Click="Button4_OnClick" Height="50" Margin="0 10 0 0"></Button>
     </StackPanel>
 </Window>
