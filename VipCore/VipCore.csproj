@@ -56,7 +56,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="MessageBox\InputBoxVIP.cs" />
     <Compile Include="Enum\MessageBoxType.cs" />
     <Compile Include="MessageBox\MessageBoxVIP.cs" />
