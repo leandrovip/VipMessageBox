@@ -101,7 +101,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VipCore\VipMessageBox.csproj">
+    <ProjectReference Include="..\VipMessageBox\VipMessageBox.csproj">
       <Project>{010A7391-FF56-4542-B89F-6A27C9E515FE}</Project>
       <Name>VipMessageBox</Name>
     </ProjectReference>

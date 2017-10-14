@@ -1,5 +1,5 @@
-# VipCore
-Conjunto de componentes e funcionalidades para trabalhar com projetos WPF.
+# VipMessageBox
+MessageBox e InputBox para WPF customizados com o MaterialDesignInXAML.
 
 ### Funcionalidades
 * **MessageBoxVIP** - Caixa de Mensagem personalizada com tema MaterialDesign
