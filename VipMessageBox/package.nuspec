@@ -2,9 +2,9 @@
 <package>
   <metadata>
     <!--*-->
-    <id>$id$</id>
+    <id>VIPMessageBox.WPF</id>
     <!--*-->
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <title>
     </title>
     <!--*-->
@@ -19,7 +19,7 @@
     <!--*-->
     <description>$description$</description>
     <!--*-->
-    <releaseNotes>*&amp;#x0020;MessageBoxVIP&amp;#x000D;&amp;#x000A;*&amp;#x0020;InputBoxVIP</releaseNotes>
+    <releaseNotes>*&amp;#x0020;Update&amp;#x0020;layout&amp;#x0020;VIPMessageBox</releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>
     </tags>

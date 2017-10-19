@@ -88,8 +88,9 @@
                                                          VerticalAlignment="Center"/>
                                 </materialDesign:ColorZone>
                                 <TextBlock x:Name="txtBtnYes" 
-                                       Text="Yes"
-                                       Margin="5 0 0 0"/>
+                                           Foreground="Black"
+                                           Text="Yes"
+                                           Margin="5 0 0 0"/>
                             </StackPanel>
                         </Button>
 
@@ -106,9 +107,10 @@
                                     <materialDesign:PackIcon Kind="CloseCircle"
                                                              VerticalAlignment="Center"/>
                                 </materialDesign:ColorZone>
-                                <TextBlock x:Name="txtBtnNo" 
-                                       Text="No"
-                                       Margin="5 0 0 0"/>
+                                <TextBlock x:Name="txtBtnNo"
+                                           Foreground="Black"
+                                           Text="No"
+                                           Margin="5 0 0 0"/>
                             </StackPanel>
                         </Button>
 
@@ -127,8 +129,9 @@
                                                          Margin="-1 0 0 0"/>
                                 </materialDesign:ColorZone>
                                 <TextBlock x:Name="txtBtnCancel" 
-                                       Text="Cancel"
-                                       Margin="5 0 0 0"/>
+                                           Foreground="Black"
+                                           Text="Cancel"
+                                           Margin="5 0 0 0"/>
                             </StackPanel>
                         </Button>
                     </StackPanel>
